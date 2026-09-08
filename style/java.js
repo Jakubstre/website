@@ -59,6 +59,7 @@ const pages = [
 	{ title: "Raster Design [D]", url: "raster-design.html" },
 	{ title: "Theatre Compositions [M,S]", url: "theatre-compositions.html" },
 	{ title: "Home [O]", url: "index.html" },
+		{ title: "Database [O]", url: "databases.html" },
 	{ title: "About me [O]", url: "aboutme.html" }
 ];
 
